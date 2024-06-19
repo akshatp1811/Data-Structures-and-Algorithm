@@ -1,1 +1,5 @@
-Check Check
+Check 
+To Update the code to github first comit it by vs code
+then comit it to main by the github desktop app
+and thats it you will get the code/file on github
+Check
